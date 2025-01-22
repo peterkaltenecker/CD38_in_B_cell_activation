@@ -6,3 +6,6 @@ The analysis showed in this repository contributed to the results of the followi
 DOI: link...<br>
 <br>
 For further information see the paper on the above link or contact the following people:
+ - First author: Viktória Temesfői, [e-mail](temesfoi.viktoria@pte.hu)
+ - Corresponding author: Emese Mezősi, [e-mail](mezosi.emese@pte.hu)
+ - For the actual content of this repository you might contact me [here](kaltenecker.peter@pte.hu)
