@@ -3,7 +3,7 @@ The analysis showed in this repository contributed to the results of the followi
 <br>
 **Linking CD38 cell surface expression to the unique calcium flux properties in human peripheral B lymphocytes following anti-IgM and anti-IgG stimulation**<br>
 *Viktória Temesfői, Péter Kaltenecker, Anna Nörenberg, Tímea Serény-Litvai, Ambrus Kaposi, Emese Mezősi*<br>
-DOI: ... insert link here...<br>
+DOI: https://doi.org/10.1155/jimr/1377217<br>
 <br>
 For further information see the paper on the above link or contact the following people:
  - First author: Viktória Temesfői, temesfoi.viktoria@pte.hu
